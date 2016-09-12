@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/kf2ksCS"><a href="//imgur.com/kf2ksCS">Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/SxVKO"><a href="//imgur.com/SxVKO">Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
